@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Birfday.h"
 
 @class ViewController;
 
@@ -17,3 +18,5 @@
 @property (strong, nonatomic) ViewController *viewController;
 
 @end
+
+Birfday *selectedBirfday;
